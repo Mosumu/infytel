@@ -1,7 +1,1 @@
-spring.datasource.driverClassName=com.mysql.jdbc.Driver
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL5Dialect
-spring.datasource.username=root
-spring.datasource.password=Mysql@100
-spring.datasource.url=jdbc:mysql://localhost:3306/infytel
-hibernate.show_sql: true
+
